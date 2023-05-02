@@ -1,0 +1,4 @@
+encryptionsalt: v1:rqlznBOIEpM=:v1:u1d/HJKrc6A5RzFN:ZCIU+MMe+KFldzqV+4Q0xwJKC6pvbg==
+config:
+  gcp:region: us-east4
+  gcp:zone: us-east4
